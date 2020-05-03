@@ -1,2 +1,4 @@
 # Sales_Dashboard
-Sales dashboard created with MS Excel
+
+This is a simple dynamic dashboard created with MS Excel. It gives the region-wise sales summary.
+You have to download the Excel file in this repository to see the dashboard.
